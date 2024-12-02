@@ -5,7 +5,7 @@
 
 /**
  *
- * @author jossy
+ * @author blenick
  */
 import javax.swing.table.DefaultTableModel;
 public class form1 extends javax.swing.JFrame {
